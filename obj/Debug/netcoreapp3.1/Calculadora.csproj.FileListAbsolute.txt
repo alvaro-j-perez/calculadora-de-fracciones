@@ -1,0 +1,26 @@
+C:\Users\AGUILAR\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\AGUILAR\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\AGUILAR\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\AGUILAR\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\AGUILAR\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\AGUILAR\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\AGUILAR\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\AGUILAR\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\AGUILAR\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\AGUILAR\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\AGUILAR\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\AGUILAR\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\AGUILAR\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\max jalapa\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\max jalapa\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\max jalapa\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\max jalapa\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\max jalapa\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\max jalapa\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\max jalapa\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\max jalapa\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\max jalapa\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\max jalapa\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\max jalapa\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\max jalapa\Desktop\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\max jalapa\Desktop\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
